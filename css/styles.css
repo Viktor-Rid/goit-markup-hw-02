@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: "#434455";
-    background-color: "#FFFFFF";
+    color: #434455;
+    background-color: #FFFFFF;
 }
 
 a {
@@ -53,14 +53,11 @@ ol {
 
 }
 
-.contact-item {
+.contacts {
     font-style: normal;
 }
 
-.contact-item .contact-links:hover {
-    color: #404bbf;
-}
-
+.contact-item .contact-links:hover,
 .contact-item .contact-links:focus {
     color: #404bbf;
 }
