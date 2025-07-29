@@ -62,13 +62,10 @@ ol {
 }
 
 .main-section {
-    width: 1440px;
-    height: 600px;
     background-color: #2e2f42;
 }
 
 .main-text {
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -78,6 +75,7 @@ ol {
 
 .main-button {
     background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -87,7 +85,7 @@ ol {
 
 .main-button:hover,
 .main-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .main-button {
