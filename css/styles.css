@@ -50,14 +50,13 @@ ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
-}
-
-.contacts {
-    font-style: normal;
 }
 
 .contact-item .contact-links:hover,
 .contact-item .contact-links:focus {
     color: #404bbf;
+}
+
+.contacts {
+    font-style: normal;
 }
