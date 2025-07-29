@@ -60,34 +60,3 @@ ol {
 .contacts {
     font-style: normal;
 }
-
-.main-section {
-    background-color: #2e2f42;
-}
-
-.main-text {
-    font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;
-}
-
-.main-button {
-    background-color: #4d5ae5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #fff;
-}
-
-.main-button:hover,
-.main-button:focus {
-    background-color: #404BBF;
-}
-
-.main-button {
-    cursor: pointer;
-}
