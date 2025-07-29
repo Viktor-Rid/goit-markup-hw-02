@@ -92,7 +92,7 @@ ol {
     cursor: pointer;
 }
 
-.team-info .team-name {
+.feature {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -100,7 +100,7 @@ ol {
     color: #2e2f42;
 }
 
-.team-info .team-text {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.feature-text {
+    ine-height: 1.5;
+    etter-spacing: 0.02em
 }
